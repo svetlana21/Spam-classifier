@@ -1,3 +1,7 @@
+'''
+Класс Classifier включает в себя и логистическую регрессию, и многослойный персептрон.
+'''
+
 # -*- coding: utf-8 -*-
 import pprint
 import numpy as np
